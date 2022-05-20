@@ -4,7 +4,7 @@
 
 ### AWS secret manager
 
-    1. management secret using terraform(set(string))
+    1. management secret using terraform(set(string)), text file
     2. interact by aws cli
     3. use jq to convert/revert secret value to text/json
 
